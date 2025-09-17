@@ -1,7 +1,7 @@
 {
 	"id": "mongodb-easy-sync",
 	"name": "MongoDB Easy Sync",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "Sync Obsidian files between devices for free with MongoDB.",
 	"author": "Hayden Karp",
