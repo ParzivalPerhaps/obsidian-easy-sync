@@ -32,4 +32,4 @@ jobs:
           gh release create "$tag" \
             --title="$tag" \
             --draft \
-            ./dist/mongodb-easy-sync
+            ./dist/mongodb-easy-sync/main.js ./dist/mongodb-easy-sync/manifest.json ./dist/mongodb-easy-sync/sync_icon.js
